@@ -2,18 +2,6 @@
 
 ## ABOUT ME
 
-Loading… [][][][][][][][][][] 0%
-Loading… █[][][][][][][][][] 10%
-Loading… ██[][][][][][][][] 20%
-Loading… ███[][][][][][][] 30%
-Loading… ████[][][][][][] 40%
-Loading… █████[][][][][] 50%
-Loading… ██████[][][][] 60%
-Loading… ███████[][][] 70%
-Loading… ████████[][] 80%
-Loading… █████████[] 90%
-Loading… ██████████] 99%
-Loading… ███████████ 100%
 
 - ☠ I’m currently working on Dota 2 and Starcraft 2
 - ⚠ I’m currently learning mechanics of Dota and Starcraft
